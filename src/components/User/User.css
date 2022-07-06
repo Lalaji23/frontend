@@ -95,6 +95,7 @@ align-items: center; justify-content: center;
 }
 .footer-right1 sup{
     cursor: pointer;
+    
 }
 .user-footer-right{
     display: flex;

@@ -14,7 +14,7 @@ export default function Home() {
                 <div className='home-right'><div className='right-items'>
                     <h1>Phigitals</h1>
                     <h2>Tagline</h2>
-            <Link to={'/Start-collection'}> <button>START Collection</button></Link> </div>
+            <Link to={'/market'}> <button>START Collection</button></Link> </div>
                 </div>
                 <div className='home-left'>
                     <div className='left-items'>
